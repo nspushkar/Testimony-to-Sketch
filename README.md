@@ -3,9 +3,7 @@
 
 An AI-powered pipeline that generates realistic criminal poster images **from audio descriptions alone**, using cutting-edge models in speech recognition, natural language processing, and generative vision.
 
-<p align="center">
-  <img src="generated_image.png" width="400" alt="Generated Mugshot Example">
-</p>
+
 
 ---
 
